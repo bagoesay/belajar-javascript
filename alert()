@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bagoes Aprils</title>
+	<script>
+		alert("Selamat datang di tutorial belajar Javascript");
+
+        function sayHello(){
+            alert("Hello!");
+        }
+	</script>
+</head>
+<body>
+	<button onclick="sayHello()">Klik Aku!</button>
+</body>
+</html>
